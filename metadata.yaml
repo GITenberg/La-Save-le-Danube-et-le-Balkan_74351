@@ -1,0 +1,27 @@
+_repo: La-Save-le-Danube-et-le-Balkan_74351
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Léger, Louis
+    gutenberg_agent_id: '57461'
+    url: http://www.gutenberg.org/2009/agents/57461
+description: ''
+gutenberg_issued: '2024-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74351'
+language: fr
+pgterms:marc904: https://archive.org/details/ahy8097.0001.001.umich.edu
+pgterms:marc905: 20231119101321lger
+pgterms:marc906: '1884'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aParis :$bPlon, $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La Save, le Danube et le Balkan
+url: http://www.gutenberg.org/ebooks/74351
