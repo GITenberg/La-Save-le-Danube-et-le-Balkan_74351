@@ -1,11 +1,16 @@
 _repo: La-Save-le-Danube-et-le-Balkan_74351
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74351-h/images/cover.jpg
 creator:
   author:
     agent_name: Léger, Louis
     gutenberg_agent_id: '57461'
     url: http://www.gutenberg.org/2009/agents/57461
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74351#La-Save-le-Danube-et-le-Balkan
 gutenberg_issued: '2024-09-02'
 gutenberg_type: Text
 identifiers:
